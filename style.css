@@ -117,14 +117,10 @@ color: black;
 {
   font-family: 'Poppins', sans-serif;
   border: none;
-
   font-size: 30px;
   padding: 80px;
 
 }
-
-
-
 
 .sous-titre
 {
@@ -146,7 +142,6 @@ color: black;
   font-size: 20px;
 /*  margin-bottom: 50px;*/
 }
-
 
 .titre-projet
 {
@@ -202,6 +197,7 @@ color: black;
 padding: 20px;
 line-height: 1.7;
 }
+
 .card-text-entreprise  {
 font-size: 16px;
 font-family: 'Open Sans', sans-serif;
@@ -362,7 +358,7 @@ list-style: circle;
 .header {
   background-color: #fff;
   position: fixed;
-  width: 96%;
+  width: 98%;
   z-index: 2;
 
 }
@@ -498,8 +494,6 @@ color: black;
   font-family: 'Poppins', sans-serif;
   color: black;
 }
-
-
 
 .snote{
 max-width:100%;
