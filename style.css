@@ -358,7 +358,7 @@ list-style: circle;
 .header {
   background-color: #fff;
   position: fixed;
-  width: 98%;
+  width: 100%;
   z-index: 2;
 
 }
