@@ -391,8 +391,10 @@ color: black;
 .header .logo {
   display: block;
   float: left;
-  font-size: 2em;
-  padding: 10px 20px;
+  font-size: 1.5em;
+  letter-spacing: 0.1em;
+  padding: 10px 10px;
+  line-height: 20px;
   text-decoration: none;
 }
 
