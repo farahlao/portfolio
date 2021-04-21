@@ -598,3 +598,22 @@ max-width:100%;
 margin-right: 0px!important;
 margin-left: 0px!important;
 }
+
+.logo {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+
+.mer {
+text-decoration: #92d4f3 wavy underline;
+text-decoration-thickness: 15px;
+display: inline-block;
+
+  }
+
+  #lettre {
+letter-spacing: 3px;
+  }
+
+
